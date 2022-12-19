@@ -1,16 +1,16 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 2,
-	"name": "create-block/wp-block-start",
+	"name": "create-block/wp-block-start-first",
 	"version": "0.1.0",
-	"title": "wp-block-start",
+	"title": "wp-block-start-first",
 	"category": "widgets",
 	"icon": "smiley",
 	"description": "Example block scaffolded with Create Block tool.",
 	"supports": {
 		"html": false
 	},
-	"textdomain": "wp-block-start",
+	"textdomain": "wp-block-start-first",
 	"editorScript": "file:./index.js",
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css"
