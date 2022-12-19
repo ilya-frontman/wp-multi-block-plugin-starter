@@ -1,0 +1,5 @@
+{
+	"*.(js|scss)": "yarn format",
+	"*.js": "yarn eslint",
+	"*.scss": "yarn stylelint"
+}
